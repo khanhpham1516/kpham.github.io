@@ -1,4 +1,4 @@
-# kpham.github.io
+kpham.github.io
 This is my user webpage
 <!DOCTYPE html>
 <html>
